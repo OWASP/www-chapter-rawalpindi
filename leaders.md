@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Danish Tariq](mailto:danish.tariq@owasp.org)
+* [Muzammil Kayani](mailto:muzammil.kayani@owasp.org)
