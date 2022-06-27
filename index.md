@@ -2,9 +2,13 @@
 
 layout: col-sidebar
 title: OWASP Rawalpindi
-tags: Rawalpindi-tag
+tags: Rawalpindi
+level: 2
+order: 1
+altfooter: true
+meetup-group: 
+country: Pakistan
 region: Asia
-meetup-group:
 
 ---
 
@@ -12,18 +16,16 @@ meetup-group:
 ## Welcome
 Welcome to the OWASP Rawalpindi chapter. We would be soon arranging meetups, conferences, CTFs etc. for Cyber Security professionals. 
 
-## Participation
-We are soon initiating groups for collaborations - contact danish.tariq2@owasp.org for now. 
-
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/), and [Community Slack Channel](https://owasp.slack.com/). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+## Participation
+We are soon initiating groups for collaborations - contact danish.tariq2@owasp.org for now. 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+## Join OWASP 
+If you want to join OWASP, have a look at this video.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T2tlcZsYtko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
