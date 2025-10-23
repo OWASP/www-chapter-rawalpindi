@@ -1,0 +1,22 @@
+leaders:
+  - name: Danish Tariq
+    email: danish.tariq2@owasp.org
+  - name: Muzammil Kayani
+    email: muzammil.kayani@owasp.org
+location:
+  country: Pakistan
+  country_code: PK
+  region: Punjab
+  city: Rawalpindi
+  latitude: 33.5914237
+  longitude: 73.0535122
+name: OWASP Rawalpindi
+repositories:
+  - name: www-chapter-rawalpindi
+    url: https://github.com/OWASP/www-chapter-rawalpindi
+    description: OWASP Foundation Web Repository
+tags:
+  - Rawalpindi
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-rawalpindi
